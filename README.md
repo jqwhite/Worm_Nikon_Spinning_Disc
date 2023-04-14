@@ -15,7 +15,7 @@ All electronics are triggered to turn on by turning on the cameras.
 
 Always turn on both cameras.
 
-The breaker may trip. Flip it back on in the box
+The breaker may trip from the initial surge. It is ok to flip it back on.
 
 1. Turn on Hammamasu camera
 2. Turn on Andor camera
