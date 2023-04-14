@@ -7,7 +7,9 @@ ___
 
 **Leave it connected to the Quiet Compressor**. NOT the house air.  Why? You may ask.  Here is the answer: The air table contains very sensitive silicone seals which the house air will damage if someone turns the pressure above 2.000 Bar.  That is 28PSI in regular units.  That is lower pressure than your mountain bike tires. 
 
-**To turn on**
+___
+
+**Turning on the system**
 
 All electronics are triggered to turn on by turning on the cameras.
 
