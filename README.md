@@ -1,5 +1,5 @@
 # Worm_Nikon_Spinning_Disc
-Home base for Nikon Spinning Disc LMF/Worm  - MPI-CBG Room 256
+Home base for Nikon Spinning Disc LMF/Worm  - SD6 - MPI-CBG Room 256
 
 ___
 
@@ -13,7 +13,7 @@ ___
 
 All electronics are triggered to turn on by turning on the cameras.
 
-Always turn on both cameras.
+**Always turn on both cameras.**
 
 The breaker may trip from the initial surge. It is ok to flip it back on.
 
